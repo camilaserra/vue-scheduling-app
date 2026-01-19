@@ -1,10 +1,3 @@
-
-<p align="center">
- <img src="https://mlabs-wordpress-site.s3.amazonaws.com/wp-content/uploads/2022/07/new-logo-color2.png" alt="bem vindo!" />
-</p>
-
-<br>
-
 ## **:rocket: TECNOLOGIA**
 
 Projeto desenvolvido, utilizando:
