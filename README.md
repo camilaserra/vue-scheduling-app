@@ -19,11 +19,11 @@ Link para o projeto:
 
 # 1º Passo: Clone o repositório
 
-git clone https: //github.com/camilaserra/mlabs-test-frontend.git
+git clone https://github.com/camilaserra/frontend-challenge-vue.git
 
 # 2º Passo: Entre no diretório
 
-cd mlabs-test-frontend
+cd frontend-challenge-vue
 
 # 3º Passo: Instale as dependências
 
