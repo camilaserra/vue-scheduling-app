@@ -18,7 +18,7 @@ Link para o projeto:
 
 # 1º Passo: Clone o repositório
 
-git clone https://github.com/camilaserra/frontend-challenge-vue.git
+git clone [https://github.com/camilaserra/frontend-challenge-vue.git](https://github.com/camilaserra/vue-scheduling-app.git)
 
 # 2º Passo: Entre no diretório
 
